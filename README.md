@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/j643c6gsjgf5jp31?svg=true)](https://ci.appveyor.com/project/Margarita7929/aqa-code2margarita)
